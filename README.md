@@ -1,4 +1,4 @@
-<h1 align="center"> Rock Paper Scissor </h1>
+<h1 align="center"> Rock - Paper - Scissor </h1>
 
 <p align="center">
 Projeto - Jogo
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-[Figma Layout Link:](https://www.figma.com/community/file/1310355674260386808/game-rock-paper-scissors)
+[Confira o layout do meu projeto no Figma:](https://www.figma.com/community/file/1310355674260386808/game-rock-paper-scissors)
 
 ## :memo: Licença
 
